@@ -2,7 +2,7 @@ import React from "react";
 
 function App() {
   return (
-    <div className="bg-white flex flex-row justify-center w-full min-w-[1440px] relative border border-red-500">
+    <div className="bg-white flex flex-row justify-center w-full min-w-[1440px] relative ">
       <div className="bg-white overflow-hidden w-[1280px] h-[4250px] relative">
         <div className="absolute w-[1292px] h-[4094px] top-[116px] left-0">
           <div className="absolute w-[1292px] h-[4084px] top-0 left-0">
